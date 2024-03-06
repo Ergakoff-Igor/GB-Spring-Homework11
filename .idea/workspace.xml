@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e3471cf-8361-43ac-9e77-c0964f50d054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="5e3471cf-8361-43ac-9e77-c0964f50d054" name="Changes" comment="GB-Spring. Homework 11. Start">
+      <change afterPath="$PROJECT_DIR$/resourses/screens/AddActCOuntMetric.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourses/screens/AddMicroserviceToPrometheus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourses/screens/GrafanaPlusPrometheus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourses/screens/StartPrometheus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resourses/yaml/prometheus.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/installGrafana.png" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/screens/installGrafana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/installPrometheus.png" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/screens/installPrometheus.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +30,9 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2dKBZIMPtIEyVHqQm488PEgXE1Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ierga/IdeaProjects/GB-Spring-Homework11",
+    "last_opened_file_path": "C:/Users/Ierga/IdeaProjects/GB-Spring-Homework11/resourses",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,7 +54,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ierga\IdeaProjects\GB-Spring-Homework11\resourses" />
       <recent name="C:\Users\Ierga\IdeaProjects\GB-Spring-Homework11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ierga\IdeaProjects\GB-Spring-Homework11\resourses\screens" />
+      <recent name="C:\Users\Ierga\IdeaProjects\GB-Spring-Homework11\resourses\yaml" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,11 +70,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709746948596</updated>
-      <workItem from="1709746949684" duration="582000" />
+      <workItem from="1709746949684" duration="6537000" />
     </task>
+    <task id="LOCAL-00001" summary="GB-Spring. Homework 11. Start">
+      <option name="closed" value="true" />
+      <created>1709749434570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709749434570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GB-Spring. Homework 11. Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="GB-Spring. Homework 11. Start" />
   </component>
 </project>
